@@ -1,7 +1,7 @@
 build:
  version: "2.0"
 customer:
-   message: "Welcome to MSEDCL bank customer reated REST API UPI"
+   message: "Welcome to MSEDCL bank customer reated REST API UPI customer"
    contactDetails:
        name: "Prachi"
        email: "prachi@gmail.com"
