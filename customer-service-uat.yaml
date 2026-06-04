@@ -6,11 +6,8 @@ customer:
        name: "Prachi"
        email: "prachi@gmail.com"
    onCallSupport: 
-       -1234567890
-       -1245987121
-    
- 
-
+       - 1234567890
+       - 1245987121
 #spring.application.name=03_CustomerService
 #spring.datasource.username=root
 #spring.datasource.password=root123
